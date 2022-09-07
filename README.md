@@ -8,6 +8,8 @@
 
 ## 0.나가기
 <img src = "screenshots/나가기.png" >
+<img src = "screenshots/나가기.png" >
+
 
 
 
