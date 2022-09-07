@@ -11,7 +11,7 @@
 <img src = "screenshots/showall.png" align = "center" width="300" height="300" >
 
 ## 0.나가기
-<img src = "screenshots/exit.png" width="300" height="300" >
+<img src = "screenshots/exit.png" width="300" height="300" align = "center" >
 
 
 
