@@ -1,6 +1,6 @@
 # WordMaster
 
-## Java, IntelliJ, Maven
+## Java, IntelliJ IDEA, Maven
 <p align="center"> <img src = "screenshots/intlliJ.png" > </p>
 
 ## 4.단어추가
