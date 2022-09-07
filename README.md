@@ -1,7 +1,7 @@
 # WordMaster
 
 ## Java, IntelliJ, Maven
-<p align="center"> <img src = "screenshots/intlliJ.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/intlliJ.png" > </p>
 
 ## 4.단어추가
 <p align="center"> <img src = "screenshots/add.png" width="300" height="300" > </p>
