@@ -8,7 +8,7 @@
 
 
 ## 1.모든단어보기
-<img src = "screenshots/showall.png" width="300" height="300" >
+<p align="center"> <img src = "screenshots/showall.png" width="300" height="300" > </p>
 
 ## 0.나가기
 <img src = "screenshots/exit.png" width="300" height="300" >
