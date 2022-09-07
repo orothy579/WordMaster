@@ -1,4 +1,4 @@
 # WordMaster
 
-<img src ="orothy579/WordMaster/screenshots/단어추가.png" >
+<img src ="/WordMaster/screenshots/단어추가.png" >
 
