@@ -10,7 +10,7 @@
 <img src = "screenshots/showall.png" width="300" height="300" >
 
 ## 0.나가기
-<img src = "screenshots/나가기.png" width="300" height="300" >
+<img src = "screenshots/exit.png" width="300" height="300" >
 
 
 
