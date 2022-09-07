@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f880f4-8206-4c1f-88a4-d6bb97a24b2d" name="Changes" comment="add .gitignore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/ICRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="18f880f4-8206-4c1f-88a4-d6bb97a24b2d" name="Changes" comment="make files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/lch/development/PracticalProject/WordMasterProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lch/development/PracticalProject/WordMasterProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/target" />
@@ -68,7 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1662429326506</updated>
       <workItem from="1662429328190" duration="1690000" />
-      <workItem from="1662467772805" duration="1045000" />
+      <workItem from="1662467772805" duration="5024000" />
+      <workItem from="1662518198672" duration="219000" />
+      <workItem from="1662518480325" duration="987000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1662429404116</created>
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662429841265</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="make files">
+      <created>1662468948761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662468948761</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="add .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
+    <MESSAGE value="make" />
+    <MESSAGE value="make files" />
+    <option name="LAST_COMMIT_MESSAGE" value="make files" />
   </component>
 </project>
