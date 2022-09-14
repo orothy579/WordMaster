@@ -11,13 +11,16 @@
 
 ## 3. 단어 검색
 <p align="center"> <img src = "screenshots/3.png" width="300" height="300" > </p>
+"ss"를 포함한 단어를 검색하였습니다.
 
 ## 4.단어추가
 <p align="center"> <img src = "screenshots/add.png" width="300" height="300" > </p>
 
 ## 5. 단어 수정
 <p align="center"> <img src = "screenshots/5_1.png" width="300" height="300" > </p>
+"er"을 포함한 단어를 선택하였고, 뜻을 수정하였습니다.
 <p align="center"> <img src = "screenshots/5_2.png" width="300" height="300" > </p>
+단어 검색을 통해 , 해당 뜻이 변경 되었음을 확인 할 수 있었습니다.
 
 
 ## 6. 단어 삭제
