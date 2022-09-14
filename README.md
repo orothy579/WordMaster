@@ -25,7 +25,9 @@
 
 ## 6. 단어 삭제
 <p align="center"> <img src = "screenshots/6_1.png" width="300" height="300" > </p>
+"er"을 포함한 단어를 선택하였고, 그 중 transfer 단어를 삭제하였습니다.
 <p align="center"> <img src = "screenshots/6_2.png" width="300" height="300" > </p>
+list에서 단어를 찾아본 결과 단어가 삭제 되었음을 확인할 수 있었습니다.
 
 
 ## 7. 파일 저장
