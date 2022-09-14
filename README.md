@@ -16,8 +16,8 @@
 <p align="center"> <img src = "screenshots/add.png" width="300" height="300" > </p>
 
 ## 5. 단어 수정
-<p align="left"> <img src = "screenshots/5_1.png" width="300" height="300" > </p>
-<p align="right"> <img src = "screenshots/5_2.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/5_1.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/5_2.png" width="300" height="300" > </p>
 
 
 ## 6. 단어 삭제
