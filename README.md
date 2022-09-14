@@ -7,22 +7,22 @@
 <p align="center"> <img src = "screenshots/showall.png" width="300" height="300" > </p>
 
 ## 2. 수준별 단어보기
-<p align="center"> <img src = "2.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/2.png" width="300" height="300" > </p>
 
 ## 3. 단어 검색
-<p align="center"> <img src = "3.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/3.png" width="300" height="300" > </p>
 
 ## 4.단어추가
 <p align="center"> <img src = "screenshots/add.png" width="300" height="300" > </p>
 
 ## 5. 단어 수정
-<p align="center"> <img src = "5.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/5.png" width="300" height="300" > </p>
 
 ## 6. 단어 삭제
-<p align="center"> <img src = "6.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/6.png" width="300" height="300" > </p>
 
 ## 7. 파일 저장
-<p align="center"> <img src = "7.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/7.png" width="300" height="300" > </p>
 
 
 ## 프로그램을 새로 실행하면 모든 단어를 정상적으로 잘 가져오는가?
