@@ -26,7 +26,12 @@
 
 
 ## 7. 파일 저장
-<p align="center"> <img src = "screenshots/7.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/7_1.png" width="300" height="300" > </p>
+jump라는 단어를 추가해 주었습니다.
+<p align="center"> <img src = "screenshots/7_2.png" width="300" height="300" > </p>
+데이터를 저장하였습니다.
+<p align="center"> <img src = "screenshots/7_3.png" width="300" height="300" > </p>
+데이터가 Dictionary.txt에 저장된 것을 확인할 수 있습니다.  "|" 으로 구분되는 포맷으로 저장 되었습니다.
 
 
 ## 프로그램을 새로 실행하면 모든 단어를 정상적으로 잘 가져오는가?
