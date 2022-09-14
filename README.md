@@ -21,7 +21,9 @@
 
 
 ## 6. 단어 삭제
-<p align="center"> <img src = "screenshots/6.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/6_1.png" width="300" height="300" > </p>
+<p align="center"> <img src = "screenshots/6_2.png" width="300" height="300" > </p>
+
 
 ## 7. 파일 저장
 <p align="center"> <img src = "screenshots/7.png" width="300" height="300" > </p>
